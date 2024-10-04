@@ -1003,4 +1003,4 @@ This project is licensed under the MIT License.
 
 ---
 
-We hope this comprehensive guide to data structures in Java helps you in your journey to becoming a better programmer and computer scientist. Happy coding!
+We hope this comprehensive guide to data structures in C helps you in your journey to becoming a better programmer and computer scientist. Happy coding!
