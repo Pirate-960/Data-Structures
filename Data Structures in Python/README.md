@@ -1,10 +1,10 @@
-# 🌟 Data Structures Compendium 🌟
+# 🌟 Data Structures Compendium in Python 🌟
 
 Welcome to the comprehensive guide to Data Structures! This repository serves as an extensive resource for understanding, implementing, and mastering various data structures crucial to computer science and software engineering.
 
 ## 📚 Table of Contents
 
-- [🌟 Data Structures Compendium 🌟](#-data-structures-compendium-)
+- [🌟 Data Structures Compendium in Python 🌟](#-data-structures-compendium-in-python-)
   - [📚 Table of Contents](#-table-of-contents)
   - [Introduction to Data Structures](#introduction-to-data-structures)
   - [Linear Data Structures](#linear-data-structures)
