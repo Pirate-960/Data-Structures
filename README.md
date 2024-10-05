@@ -29,7 +29,7 @@ Welcome to the ultimate Data Structures repository! This project serves as a com
   - [Code Style and Standards](#code-style-and-standards)
   - [Testing](#testing)
   - [Documentation](#documentation)
-  - [Performance Benchmarks](#performance-benchmarks)
+  - [Performance Benchmarks - (In Progress)](#performance-benchmarks---in-progress)
   - [Visualization Tools](#visualization-tools)
   - [Further Learning Resources](#further-learning-resources)
   - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
@@ -366,7 +366,7 @@ Good documentation is crucial. When adding new data structures or modifying exis
 - Provide example usage in the documentation
 - Update the main README if adding a new major feature or data structure
 
-## Performance Benchmarks
+## Performance Benchmarks - (In Progress)
 
 We've included performance benchmarks for various operations on different data structures. These can be found in the `Benchmarks` directory. Feel free to run these on your machine and contribute your results.
 
@@ -405,21 +405,20 @@ Our plans for future additions and improvements can be found in the [ROADMAP.md]
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [MIT LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - Thanks to all contributors who have helped build this repository
-- Special thanks to [List any specific resources or individuals you want to acknowledge]
+- Special thanks to All Contributors.
 - Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
 
 ## Contact
 
 If you have any questions, feel free to reach out to us:
 
-- Email: @Pirate-960
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Project Link: [https://github.com/yourusername/data-structures-master](https://github.com/yourusername/data-structures-master)
+- Email: a.a.zahran.960@gmail.com
+- Project Link: [https://github.com/Pirate-960/data-structures-master](https://github.com/Pirate-960/data-structures-master)
 
 ---
 
