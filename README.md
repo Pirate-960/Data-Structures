@@ -1,6 +1,3 @@
-
-
-
 # 🌟 Data Structures Master Repository 🌟
 
 Welcome to the ultimate Data Structures repository! This project serves as a comprehensive resource for understanding, implementing, and mastering various data structures crucial to computer science and software engineering across multiple programming languages.
@@ -137,14 +134,6 @@ Key features:
 - Struct-based implementations
 - Close-to-hardware operations
 
-Example (Singly Linked List node):
-```c
-struct Node {
-    int data;
-    struct Node* next;
-};
-```
-
 ### C++
 
 C++ is an extension of C that adds object-oriented features. It offers both low-level control and high-level abstractions, making it a powerful language for implementing complex data structures.
@@ -154,13 +143,6 @@ Key features:
 - Templates for generic programming
 - Standard Template Library (STL)
 - RAII (Resource Acquisition Is Initialization)
-
-Example (Vector usage):
-```cpp
-#include <vector>
-std::vector<int> v = {1, 2, 3, 4, 5};
-v.push_back(6);
-```
 
 ### Java
 
@@ -172,14 +154,6 @@ Key features:
 - Platform independence
 - Strong typing
 
-Example (ArrayList usage):
-```java
-import java.util.ArrayList;
-ArrayList<String> list = new ArrayList<>();
-list.add("Hello");
-list.add("World");
-```
-
 ### Python
 
 Python is a high-level, interpreted language known for its simplicity and readability. It's an excellent choice for rapid prototyping and working with complex data structures.
@@ -189,11 +163,6 @@ Key features:
 - Extensive standard library
 - Concise and readable syntax
 - List comprehensions and generators
-
-Example (List comprehension):
-```python
-squares = [x**2 for x in range(10)]
-```
 
 ## Data Structures Overview
 
