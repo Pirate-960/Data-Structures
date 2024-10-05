@@ -417,7 +417,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feel free to reach out to us:
 
-- Email: your.email@example.com
+- Email: @Pirate-960
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Project Link: [https://github.com/yourusername/data-structures-master](https://github.com/yourusername/data-structures-master)
 
