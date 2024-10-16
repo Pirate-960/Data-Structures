@@ -33,7 +33,6 @@
   - [Best Practices](#best-practices)
   - [Common Use Cases](#common-use-cases)
   - [Limitations and Considerations](#limitations-and-considerations)
-  - [Examples](#examples)
   - [Further Resources](#further-resources)
 
 ## Introduction
@@ -208,16 +207,6 @@ Proper memory management is crucial when implementing hash-based structures in C
 3. Hash tables can have poor performance with a bad choice of initial size and growth strategy.
 4. Open addressing schemes can suffer from primary and secondary clustering.
 5. Cryptographic hash functions, while secure, are often too slow for general-purpose hash tables.
-
-## Examples
-
-Here are some example implementations of hash-based structures in C:
-
-1. [Simple Hash Table with Chaining](https://github.com/example/c-hash-structures/hash_table_chaining.c)
-2. [Hash Table with Open Addressing](https://github.com/example/c-hash-structures/hash_table_open_addressing.c)
-3. [Hash Set Implementation](https://github.com/example/c-hash-structures/hash_set.c)
-4. [Hash Map Implementation](https://github.com/example/c-hash-structures/hash_map.c)
-5. [Bloom Filter](https://github.com/example/c-hash-structures/bloom_filter.c)
 
 ## Further Resources
 
